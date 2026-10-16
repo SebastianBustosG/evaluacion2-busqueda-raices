@@ -3,8 +3,8 @@
 Este repositorio contiene la Evaluación 2 de Computación Numérica: "La raíz que se esconde", implementando métodos de búsqueda de raíces y analizando su convergencia.
 
 ## Integrantes
+- Cristóbal Aguilera
 - Sebastián Bustos
-- (Añade a tu compañero si tienes uno)
 
 ## Cómo montar el entorno de ejecución
 
