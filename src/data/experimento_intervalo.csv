@@ -1,0 +1,23 @@
+id,metodo,a,b,ancho,resultado,iteraciones,raiz,estado
+fun1_polinomica_simple,Bisección,1,2,1,20,20,1.52138042,converge
+fun1_polinomica_simple,Falsa posición,1,2,1,12,12,1.52137946,converge
+fun1_polinomica_simple,Bisección,0,3,3,22,22,1.52137971,converge
+fun1_polinomica_simple,Falsa posición,0,3,3,30,30,1.52137827,converge
+fun1_polinomica_simple,Bisección,-5,10,15,24,24,1.52137905,converge
+fun1_polinomica_simple,Falsa posición,-5,10,15,NC,100,0.33502807,tope de iteraciones
+fun1_polinomica_simple,Bisección,1,100,99,27,27,1.52138006,converge
+fun1_polinomica_simple,Falsa posición,1,100,99,NC,100,1.01960345,tope de iteraciones
+fun1_polinomica_simple,Bisección,-100,100,200,28,28,1.52137950,converge
+fun1_polinomica_simple,Falsa posición,-100,100,200,NC,100,0.02009932,tope de iteraciones
+fun3_logaritmica,Bisección,2,3,1,19,19,2.92627144,converge
+fun3_logaritmica,Falsa posición,2,3,1,4,4,2.92627148,converge
+fun3_logaritmica,Bisección,1,10,9,23,23,2.92627132,converge
+fun3_logaritmica,Falsa posición,1,10,9,8,8,2.92627148,converge
+fun3_logaritmica,Bisección,0.5,100,99.5,26,26,2.92627095,converge
+fun3_logaritmica,Falsa posición,0.5,100,99.5,11,11,2.92627143,converge
+fun5_trigonometrica,Bisección,0,1,1,20,20,0.73908520,converge
+fun5_trigonometrica,Falsa posición,0,1,1,5,5,0.73908478,converge
+fun5_trigonometrica,Bisección,-1,2,3,21,21,0.73908567,converge
+fun5_trigonometrica,Falsa posición,-1,2,3,8,8,0.73908464,converge
+fun5_trigonometrica,Bisección,-10,10,20,23,23,0.73908567,converge
+fun5_trigonometrica,Falsa posición,-10,10,20,7,7,0.73908510,converge
