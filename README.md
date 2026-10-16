@@ -14,3 +14,16 @@ Este proyecto utiliza un entorno virtual de Python (`venv`). Sigue estos pasos p
    ```bash
    git clone [https://github.com/SebastianBustosG/evaluacion2-busqueda-raices.git](https://github.com/SebastianBustosG/evaluacion2-busqueda-raices.git)
    cd evaluacion2-busqueda-raices
+
+## Estructura del proyecto:
+
+```
+evaluacion2-busqueda-raices/
+├── README.md
+├── requirements.txt
+├── informe.md                 <- respuestas a las preguntas de convergencia y conclusión
+└── src/
+    ├── assets/                <- gráficos PNG generados
+    ├── data/                  <- CSV generados
+    └── scripts/               <- scripts de Python
+```
