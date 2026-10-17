@@ -1,0 +1,5 @@
+id,g(x),x0,resultado,iteraciones,ultimo_x,estado
+fun1_polinomica_simple,g(x) = ∛(x + 2),1.5,7,7,1.5213797,converge
+fun1_polinomica_simple,g(x) = x³ − 2,1.5,NC,6,-94394268,diverge (valor no finito o enorme)
+fun6_mixta,g(x) = cos²(x),0.55,NC,100,0.64043532,tope de iteraciones
+fun6_mixta,"g(x) = x − 0,5·f(x)",0.55,13,13,0.64171394,converge

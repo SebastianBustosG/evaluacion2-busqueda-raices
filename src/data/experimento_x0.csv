@@ -1,0 +1,64 @@
+id,metodo,x0,resultado,iteraciones,raiz,|raiz - ref|,estado
+fun1_polinomica_simple,Punto fijo,-1,9,9,1.52137960,1.03e-07,converge
+fun1_polinomica_simple,Secante,-1,8,8,1.52137971,5.48e-10,converge
+fun1_polinomica_simple,Newton-Raphson,-1,31,31,1.52137971,4.91e-12,converge
+fun1_polinomica_simple,Punto fijo,0,9,9,1.52137966,4.98e-08,converge
+fun1_polinomica_simple,Secante,0,8,8,1.52137971,6.46e-11,converge
+fun1_polinomica_simple,Newton-Raphson,0,30,30,1.52137971,4.91e-12,converge
+fun1_polinomica_simple,Punto fijo,0.5,9,9,1.52137968,3.09e-08,converge
+fun1_polinomica_simple,Secante,0.5,9,9,1.52137971,5.13e-11,converge
+fun1_polinomica_simple,Newton-Raphson,0.5,37,37,1.52137971,1.12e-12,converge
+fun1_polinomica_simple,Punto fijo,0.6,9,9,1.52137968,2.75e-08,converge
+fun1_polinomica_simple,Secante,0.6,7,7,1.52137983,1.18e-07,converge
+fun1_polinomica_simple,Newton-Raphson,0.6,12,12,1.52137972,1.06e-08,converge
+fun1_polinomica_simple,Punto fijo,1.5,7,7,1.52137968,2.75e-08,converge
+fun1_polinomica_simple,Secante,1.5,4,4,1.52137969,1.20e-08,converge
+fun1_polinomica_simple,Newton-Raphson,1.5,2,2,1.52137981,9.92e-08,converge
+fun1_polinomica_simple,Punto fijo,3,9,9,1.52137974,3.42e-08,converge
+fun1_polinomica_simple,Secante,3,8,8,1.52137971,4.82e-11,converge
+fun1_polinomica_simple,Newton-Raphson,3,5,5,1.52137979,8.21e-08,converge
+fun1_polinomica_simple,Punto fijo,10,9,9,1.52137984,1.31e-07,converge
+fun1_polinomica_simple,Secante,10,12,12,1.52137971,4.29e-10,converge
+fun1_polinomica_simple,Newton-Raphson,10,9,9,1.52137971,3.33e-14,converge
+fun3_logaritmica,Punto fijo,0.05,16,16,2.92627077,2.94e-07,converge
+fun3_logaritmica,Secante,0.05,6,6,2.92627106,2.93e-10,converge
+fun3_logaritmica,Newton-Raphson,0.05,5,5,2.92627104,2.30e-08,converge
+fun3_logaritmica,Punto fijo,0.5,15,15,2.92627150,4.37e-07,converge
+fun3_logaritmica,Secante,0.5,5,5,2.92627106,2.62e-09,converge
+fun3_logaritmica,Newton-Raphson,0.5,4,4,2.92627106,2.25e-09,converge
+fun3_logaritmica,Punto fijo,2.5,13,13,2.92627145,3.92e-07,converge
+fun3_logaritmica,Secante,2.5,3,3,2.92627106,2.96e-10,converge
+fun3_logaritmica,Newton-Raphson,2.5,3,3,2.92627106,6.31e-13,converge
+fun3_logaritmica,Punto fijo,10,15,15,2.92627062,4.43e-07,converge
+fun3_logaritmica,Secante,10,5,5,2.92627106,5.16e-10,converge
+fun3_logaritmica,Newton-Raphson,10,4,4,2.92627106,1.60e-12,converge
+fun3_logaritmica,Punto fijo,100,NC,1,-0.60517019,3.53e+00,diverge (valor no finito o enorme)
+fun3_logaritmica,Secante,100,6,6,2.92627130,2.38e-07,converge
+fun3_logaritmica,Newton-Raphson,100,5,5,2.92627104,1.86e-08,converge
+fun4_exponencial,Punto fijo,-5,27,27,0.56714375,4.58e-07,converge
+fun4_exponencial,Secante,-5,11,11,0.56714329,2.13e-10,converge
+fun4_exponencial,Newton-Raphson,-5,8,8,0.56714329,3.40e-09,converge
+fun4_exponencial,Punto fijo,0.5,21,21,0.56714375,4.61e-07,converge
+fun4_exponencial,Secante,0.5,3,3,0.56714362,3.26e-07,converge
+fun4_exponencial,Newton-Raphson,0.5,2,2,0.56714317,1.25e-07,converge
+fun4_exponencial,Punto fijo,5,26,26,0.56714374,4.52e-07,converge
+fun4_exponencial,Secante,5,6,6,0.56714329,1.20e-09,converge
+fun4_exponencial,Newton-Raphson,5,4,4,0.56714322,6.71e-08,converge
+fun4_exponencial,Punto fijo,20,26,26,0.56714375,4.58e-07,converge
+fun4_exponencial,Secante,20,6,6,0.56714330,9.51e-09,converge
+fun4_exponencial,Newton-Raphson,20,4,4,0.56714317,1.25e-07,converge
+fun5_trigonometrica,Punto fijo,0.5,33,33,0.73908559,4.61e-07,converge
+fun5_trigonometrica,Secante,0.5,4,4,0.73908513,3.15e-10,converge
+fun5_trigonometrica,Newton-Raphson,0.5,3,3,0.73908513,7.06e-10,converge
+fun5_trigonometrica,Punto fijo,1,33,33,0.73908455,5.84e-07,converge
+fun5_trigonometrica,Secante,1,4,4,0.73908514,7.51e-09,converge
+fun5_trigonometrica,Newton-Raphson,1,3,3,0.73908513,1.70e-10,converge
+fun5_trigonometrica,Punto fijo,3,34,34,0.73908457,5.62e-07,converge
+fun5_trigonometrica,Secante,3,7,7,0.73908512,1.39e-08,converge
+fun5_trigonometrica,Newton-Raphson,3,5,5,0.73908520,7.12e-08,converge
+fun5_trigonometrica,Punto fijo,10,32,32,0.73908464,4.91e-07,converge
+fun5_trigonometrica,Secante,10,7,7,0.73908504,8.98e-08,converge
+fun5_trigonometrica,Newton-Raphson,10,NC,100,3.56802981,2.83e+00,tope de iteraciones
+fun5_trigonometrica,Punto fijo,-5,35,35,0.73908464,4.96e-07,converge
+fun5_trigonometrica,Secante,-5,8,8,0.73908520,6.90e-08,converge
+fun5_trigonometrica,Newton-Raphson,-5,NC,21,-187380086059.16696167,1.87e+11,diverge (valor no finito o enorme)

@@ -1,0 +1,7 @@
+id,funcion,a,b,f(a),f(b),f(a)*f(b),x0_newton_pf,x0_secante,x1_secante,g(x)_punto_fijo,tolerancia,max_iter,raiz_referencia,demostracion
+fun1_polinomica_simple,f(x) = x³ − x − 2,1.0,2.0,-2,4,-8,1.5,1.0,2.0,g(x) = ∛(x + 2),1e-06,100,1.521379706805,Bolzano: f(a)·f(b) = -8 < 0
+fun2_polinomica_doble,f(x) = (x − 2)²,1.0,3.0,1,1,1,1.2,1.2,1.5,g(x) = x + (x − 2)²,1e-06,100,2.000000000000,"Tangencia: f(2) = 0, f'(2) = 0, min f(x) en el rango = 0 >= 0 (sin cambio de signo)"
+fun3_logaritmica,f(x) = ln(x) + x − 4,2.0,3.0,-1.30685,0.0986123,-0.128872,2.5,2.0,3.0,g(x) = 4 − ln(x),1e-06,100,2.926271062444,Bolzano: f(a)·f(b) = -0.1289 < 0
+fun4_exponencial,f(x) = e^(−x) − x,0.0,1.0,1,-0.632121,-0.632121,0.5,0.0,1.0,g(x) = e^(−x),1e-06,100,0.567143290410,Bolzano: f(a)·f(b) = -0.6321 < 0
+fun5_trigonometrica,f(x) = cos(x) − x,0.0,1.0,1,-0.459698,-0.459698,0.5,0.0,1.0,g(x) = cos(x),1e-06,100,0.739085133215,Bolzano: f(a)·f(b) = -0.4597 < 0
+fun6_mixta,f(x) = √x − cos(x),0.1,1.0,-0.678776,0.459698,-0.312032,0.55,0.1,1.0,"g(x) = x − 0,5·f(x)",1e-06,100,0.641714370873,Bolzano: f(a)·f(b) = -0.312 < 0

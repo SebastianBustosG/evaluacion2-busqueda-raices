@@ -1,0 +1,387 @@
+id,metodo,iteracion,x,f(x),error
+fun1_polinomica_simple,Bisección,1,1.500000000000,-1.2500e-01,2.1380e-02
+fun1_polinomica_simple,Bisección,2,1.750000000000,1.6094e+00,2.2862e-01
+fun1_polinomica_simple,Bisección,3,1.625000000000,6.6602e-01,1.0362e-01
+fun1_polinomica_simple,Bisección,4,1.562500000000,2.5220e-01,4.1120e-02
+fun1_polinomica_simple,Bisección,5,1.531250000000,5.9113e-02,9.8703e-03
+fun1_polinomica_simple,Bisección,6,1.515625000000,-3.4054e-02,5.7547e-03
+fun1_polinomica_simple,Bisección,7,1.523437500000,1.2250e-02,2.0578e-03
+fun1_polinomica_simple,Bisección,8,1.519531250000,-1.0971e-02,1.8485e-03
+fun1_polinomica_simple,Bisección,9,1.521484375000,6.2218e-04,1.0467e-04
+fun1_polinomica_simple,Bisección,10,1.520507812500,-5.1789e-03,8.7189e-04
+fun1_polinomica_simple,Bisección,11,1.520996093750,-2.2794e-03,3.8361e-04
+fun1_polinomica_simple,Bisección,12,1.521240234375,-8.2891e-04,1.3947e-04
+fun1_polinomica_simple,Bisección,13,1.521362304688,-1.0343e-04,1.7402e-05
+fun1_polinomica_simple,Bisección,14,1.521423339844,2.5935e-04,4.3633e-05
+fun1_polinomica_simple,Bisección,15,1.521392822266,7.7956e-05,1.3115e-05
+fun1_polinomica_simple,Bisección,16,1.521377563477,-1.2739e-05,2.1433e-06
+fun1_polinomica_simple,Bisección,17,1.521385192871,3.2608e-05,5.4861e-06
+fun1_polinomica_simple,Bisección,18,1.521381378174,9.9343e-06,1.6714e-06
+fun1_polinomica_simple,Bisección,19,1.521379470825,-1.4026e-06,2.3598e-07
+fun1_polinomica_simple,Bisección,20,1.521380424500,4.2658e-06,7.1769e-07
+fun1_polinomica_simple,Falsa posición,1,1.333333333333,-9.6296e-01,1.8805e-01
+fun1_polinomica_simple,Falsa posición,2,1.462686567164,-3.3334e-01,5.8693e-02
+fun1_polinomica_simple,Falsa posición,3,1.504019003950,-1.0182e-01,1.7361e-02
+fun1_polinomica_simple,Falsa posición,4,1.516330564760,-2.9895e-02,5.0491e-03
+fun1_polinomica_simple,Falsa posición,5,1.519918550023,-8.6751e-03,1.4612e-03
+fun1_polinomica_simple,Falsa posición,6,1.520957481372,-2.5088e-03,4.2223e-04
+fun1_polinomica_simple,Falsa posición,7,1.521257749126,-7.2482e-04,1.2196e-04
+fun1_polinomica_simple,Falsa posición,8,1.521344484232,-2.0935e-04,3.5223e-05
+fun1_polinomica_simple,Falsa posición,9,1.521369534538,-6.0461e-05,1.0172e-05
+fun1_polinomica_simple,Falsa posición,10,1.521376769087,-1.7461e-05,2.9377e-06
+fun1_polinomica_simple,Falsa posición,11,1.521378858404,-5.0427e-06,8.4840e-07
+fun1_polinomica_simple,Falsa posición,12,1.521379461790,-1.4563e-06,2.4501e-07
+fun1_polinomica_simple,Punto fijo,1,1.518294485938,-1.8294e-02,3.0852e-03
+fun1_polinomica_simple,Punto fijo,2,1.520935263217,-2.6408e-03,4.4444e-04
+fun1_polinomica_simple,Punto fijo,3,1.521315698190,-3.8043e-04,6.4009e-05
+fun1_polinomica_simple,Punto fijo,4,1.521370488638,-5.4790e-05,9.2182e-06
+fun1_polinomica_simple,Punto fijo,5,1.521378379262,-7.8906e-06,1.3275e-06
+fun1_polinomica_simple,Punto fijo,6,1.521379515620,-1.1364e-06,1.9118e-07
+fun1_polinomica_simple,Punto fijo,7,1.521379679271,-1.6365e-07,2.7533e-08
+fun1_polinomica_simple,Secante,1,1.333333333333,-9.6296e-01,1.8805e-01
+fun1_polinomica_simple,Secante,2,1.462686567164,-3.3334e-01,5.8693e-02
+fun1_polinomica_simple,Secante,3,1.531169432141,5.8626e-02,9.7897e-03
+fun1_polinomica_simple,Secante,4,1.520926420515,-2.6933e-03,4.5329e-04
+fun1_polinomica_simple,Secante,5,1.521376316670,-2.0150e-05,3.3901e-06
+fun1_polinomica_simple,Secante,6,1.521379707985,7.0155e-09,1.1803e-09
+fun1_polinomica_simple,Newton-Raphson,1,1.521739130435,2.1369e-03,3.5942e-04
+fun1_polinomica_simple,Newton-Raphson,2,1.521379805965,5.8939e-07,9.9160e-08
+fun1_polinomica_simple,Newton mejorado,1,1.521023765996,-2.1151e-03,3.5594e-04
+fun1_polinomica_simple,Newton mejorado,2,1.521379609496,-5.7838e-07,9.7309e-08
+fun2_polinomica_doble,Punto fijo,1,1.840000000000,2.5600e-02,1.6000e-01
+fun2_polinomica_doble,Punto fijo,2,1.865600000000,1.8063e-02,1.3440e-01
+fun2_polinomica_doble,Punto fijo,3,1.883663360000,1.3534e-02,1.1634e-01
+fun2_polinomica_doble,Punto fijo,4,1.897197573806,1.0568e-02,1.0280e-01
+fun2_polinomica_doble,Punto fijo,5,1.907765912638,8.5071e-03,9.2234e-02
+fun2_polinomica_doble,Punto fijo,6,1.916273039509,7.0102e-03,8.3727e-02
+fun2_polinomica_doble,Punto fijo,7,1.923283243422,5.8855e-03,7.6717e-02
+fun2_polinomica_doble,Punto fijo,8,1.929168704162,5.0171e-03,7.0831e-02
+fun2_polinomica_doble,Punto fijo,9,1.934185776632,4.3315e-03,6.5814e-02
+fun2_polinomica_doble,Punto fijo,10,1.938517288630,3.7801e-03,6.1483e-02
+fun2_polinomica_doble,Punto fijo,11,1.942297412427,3.3296e-03,5.7703e-02
+fun2_polinomica_doble,Punto fijo,12,1.945627001040,2.9564e-03,5.4373e-02
+fun2_polinomica_doble,Punto fijo,13,1.948583424056,2.6437e-03,5.1417e-02
+fun2_polinomica_doble,Punto fijo,14,1.951227088338,2.3788e-03,4.8773e-02
+fun2_polinomica_doble,Punto fijo,15,1.953605885250,2.1524e-03,4.6394e-02
+fun2_polinomica_doble,Punto fijo,16,1.955758299133,1.9573e-03,4.4242e-02
+fun2_polinomica_doble,Punto fijo,17,1.957715627229,1.7880e-03,4.2284e-02
+fun2_polinomica_doble,Punto fijo,18,1.959503595409,1.6400e-03,4.0496e-02
+fun2_polinomica_doble,Punto fijo,19,1.961143554194,1.5098e-03,3.8856e-02
+fun2_polinomica_doble,Punto fijo,20,1.962653377575,1.3948e-03,3.7347e-02
+fun2_polinomica_doble,Punto fijo,21,1.964048147781,1.2925e-03,3.5952e-02
+fun2_polinomica_doble,Punto fijo,22,1.965340683459,1.2013e-03,3.4659e-02
+fun2_polinomica_doble,Punto fijo,23,1.966541951682,1.1194e-03,3.3458e-02
+fun2_polinomica_doble,Punto fijo,24,1.967661392680,1.0458e-03,3.2339e-02
+fun2_polinomica_doble,Punto fijo,25,1.968707178203,9.7924e-04,3.1293e-02
+fun2_polinomica_doble,Punto fijo,26,1.969686418899,9.1891e-04,3.0314e-02
+fun2_polinomica_doble,Punto fijo,27,1.970605332098,8.6405e-04,2.9395e-02
+fun2_polinomica_doble,Punto fijo,28,1.971469378599,8.1400e-04,2.8531e-02
+fun2_polinomica_doble,Punto fijo,29,1.972283374957,7.6821e-04,2.7717e-02
+fun2_polinomica_doble,Punto fijo,30,1.973051586261,7.2622e-04,2.6948e-02
+fun2_polinomica_doble,Punto fijo,31,1.973777803264,6.8760e-04,2.6222e-02
+fun2_polinomica_doble,Punto fijo,32,1.974465406865,6.5202e-04,2.5535e-02
+fun2_polinomica_doble,Punto fijo,33,1.975117422312,6.1914e-04,2.4883e-02
+fun2_polinomica_doble,Punto fijo,34,1.975736564984,5.8871e-04,2.4263e-02
+fun2_polinomica_doble,Punto fijo,35,1.976325279263,5.6049e-04,2.3675e-02
+fun2_polinomica_doble,Punto fijo,36,1.976885771665,5.3427e-04,2.3114e-02
+fun2_polinomica_doble,Punto fijo,37,1.977420039217,5.0985e-04,2.2580e-02
+fun2_polinomica_doble,Punto fijo,38,1.977929893845,4.8709e-04,2.2070e-02
+fun2_polinomica_doble,Punto fijo,39,1.978416983431,4.6583e-04,2.1583e-02
+fun2_polinomica_doble,Punto fijo,40,1.978882810035,4.4594e-04,2.1117e-02
+fun2_polinomica_doble,Punto fijo,41,1.979328745747,4.2730e-04,2.0671e-02
+fun2_polinomica_doble,Punto fijo,42,1.979756046500,4.0982e-04,2.0244e-02
+fun2_polinomica_doble,Punto fijo,43,1.980165864153,3.9339e-04,1.9834e-02
+fun2_polinomica_doble,Punto fijo,44,1.980559257098,3.7794e-04,1.9441e-02
+fun2_polinomica_doble,Punto fijo,45,1.980937199582,3.6339e-04,1.9063e-02
+fun2_polinomica_doble,Punto fijo,46,1.981300589942,3.4967e-04,1.8699e-02
+fun2_polinomica_doble,Punto fijo,47,1.981650257879,3.3671e-04,1.8350e-02
+fun2_polinomica_doble,Punto fijo,48,1.981986970915,3.2447e-04,1.8013e-02
+fun2_polinomica_doble,Punto fijo,49,1.982311440131,3.1289e-04,1.7689e-02
+fun2_polinomica_doble,Punto fijo,50,1.982624325282,3.0191e-04,1.7376e-02
+fun2_polinomica_doble,Punto fijo,51,1.982926239354,2.9151e-04,1.7074e-02
+fun2_polinomica_doble,Punto fijo,52,1.983217752656,2.8164e-04,1.6782e-02
+fun2_polinomica_doble,Punto fijo,53,1.983499396482,2.7227e-04,1.6501e-02
+fun2_polinomica_doble,Punto fijo,54,1.983771666399,2.6336e-04,1.6228e-02
+fun2_polinomica_doble,Punto fijo,55,1.984035025210,2.5488e-04,1.5965e-02
+fun2_polinomica_doble,Punto fijo,56,1.984289905630,2.4681e-04,1.5710e-02
+fun2_polinomica_doble,Punto fijo,57,1.984536712695,2.3911e-04,1.5463e-02
+fun2_polinomica_doble,Punto fijo,58,1.984775825949,2.3178e-04,1.5224e-02
+fun2_polinomica_doble,Punto fijo,59,1.985007601425,2.2477e-04,1.4992e-02
+fun2_polinomica_doble,Punto fijo,60,1.985232373440,2.1808e-04,1.4768e-02
+fun2_polinomica_doble,Punto fijo,61,1.985450456234,2.1169e-04,1.4550e-02
+fun2_polinomica_doble,Punto fijo,62,1.985662145458,2.0557e-04,1.4338e-02
+fun2_polinomica_doble,Punto fijo,63,1.985867719531,1.9972e-04,1.4132e-02
+fun2_polinomica_doble,Punto fijo,64,1.986067440882,1.9412e-04,1.3933e-02
+fun2_polinomica_doble,Punto fijo,65,1.986261557086,1.8874e-04,1.3738e-02
+fun2_polinomica_doble,Punto fijo,66,1.986450301899,1.8359e-04,1.3550e-02
+fun2_polinomica_doble,Punto fijo,67,1.986633896218,1.7865e-04,1.3366e-02
+fun2_polinomica_doble,Punto fijo,68,1.986812548948,1.7391e-04,1.3187e-02
+fun2_polinomica_doble,Punto fijo,69,1.986986457814,1.6935e-04,1.3014e-02
+fun2_polinomica_doble,Punto fijo,70,1.987155810094,1.6497e-04,1.2844e-02
+fun2_polinomica_doble,Punto fijo,71,1.987320783308,1.6076e-04,1.2679e-02
+fun2_polinomica_doble,Punto fijo,72,1.987481545844,1.5671e-04,1.2518e-02
+fun2_polinomica_doble,Punto fijo,73,1.987638257539,1.5281e-04,1.2362e-02
+fun2_polinomica_doble,Punto fijo,74,1.987791070215,1.4906e-04,1.2209e-02
+fun2_polinomica_doble,Punto fijo,75,1.987940128182,1.4544e-04,1.2060e-02
+fun2_polinomica_doble,Punto fijo,76,1.988085568690,1.4195e-04,1.1914e-02
+fun2_polinomica_doble,Punto fijo,77,1.988227522363,1.3859e-04,1.1772e-02
+fun2_polinomica_doble,Punto fijo,78,1.988366113593,1.3535e-04,1.1634e-02
+fun2_polinomica_doble,Punto fijo,79,1.988501460906,1.3222e-04,1.1499e-02
+fun2_polinomica_doble,Punto fijo,80,1.988633677307,1.2919e-04,1.1366e-02
+fun2_polinomica_doble,Punto fijo,81,1.988762870599,1.2627e-04,1.1237e-02
+fun2_polinomica_doble,Punto fijo,82,1.988889143676,1.2345e-04,1.1111e-02
+fun2_polinomica_doble,Punto fijo,83,1.989012594804,1.2072e-04,1.0987e-02
+fun2_polinomica_doble,Punto fijo,84,1.989133317877,1.1808e-04,1.0867e-02
+fun2_polinomica_doble,Punto fijo,85,1.989251402658,1.1553e-04,1.0749e-02
+fun2_polinomica_doble,Punto fijo,86,1.989366935002,1.1306e-04,1.0633e-02
+fun2_polinomica_doble,Punto fijo,87,1.989479997074,1.1067e-04,1.0520e-02
+fun2_polinomica_doble,Punto fijo,88,1.989590667535,1.0835e-04,1.0409e-02
+fun2_polinomica_doble,Punto fijo,89,1.989699021738,1.0611e-04,1.0301e-02
+fun2_polinomica_doble,Punto fijo,90,1.989805131891,1.0394e-04,1.0195e-02
+fun2_polinomica_doble,Punto fijo,91,1.989909067227,1.0183e-04,1.0091e-02
+fun2_polinomica_doble,Punto fijo,92,1.990010894151,9.9782e-05,9.9891e-03
+fun2_polinomica_doble,Punto fijo,93,1.990110676386,9.7799e-05,9.8893e-03
+fun2_polinomica_doble,Punto fijo,94,1.990208475108,9.5874e-05,9.7915e-03
+fun2_polinomica_doble,Punto fijo,95,1.990304349068,9.4006e-05,9.6957e-03
+fun2_polinomica_doble,Punto fijo,96,1.990398354715,9.2192e-05,9.6016e-03
+fun2_polinomica_doble,Punto fijo,97,1.990490546307,9.0430e-05,9.5095e-03
+fun2_polinomica_doble,Punto fijo,98,1.990580976016,8.8718e-05,9.4190e-03
+fun2_polinomica_doble,Punto fijo,99,1.990669694029,8.7055e-05,9.3303e-03
+fun2_polinomica_doble,Punto fijo,100,1.990756748639,8.5438e-05,9.2433e-03
+fun2_polinomica_doble,Secante,1,1.692307692308,9.4675e-02,3.0769e-01
+fun2_polinomica_doble,Secante,2,1.809523809524,3.6281e-02,1.9048e-01
+fun2_polinomica_doble,Secante,3,1.882352941176,1.3841e-02,1.1765e-01
+fun2_polinomica_doble,Secante,4,1.927272727273,5.2893e-03,7.2727e-02
+fun2_polinomica_doble,Secante,5,1.955056179775,2.0199e-03,4.4944e-02
+fun2_polinomica_doble,Secante,6,1.972222222222,7.7160e-04,2.7778e-02
+fun2_polinomica_doble,Secante,7,1.982832618026,2.9472e-04,1.7167e-02
+fun2_polinomica_doble,Secante,8,1.989389920424,1.1257e-04,1.0610e-02
+fun2_polinomica_doble,Secante,9,1.993442622951,4.2999e-05,6.5574e-03
+fun2_polinomica_doble,Secante,10,1.995947315096,1.6424e-05,4.0527e-03
+fun2_polinomica_doble,Secante,11,1.997495303694,6.2735e-06,2.5047e-03
+fun2_polinomica_doble,Secante,12,1.998452012384,2.3963e-06,1.5480e-03
+fun2_polinomica_doble,Secante,13,1.999043291079,9.1529e-07,9.5671e-04
+fun2_polinomica_doble,Newton-Raphson,1,1.600000000000,1.6000e-01,4.0000e-01
+fun2_polinomica_doble,Newton-Raphson,2,1.800000000000,4.0000e-02,2.0000e-01
+fun2_polinomica_doble,Newton-Raphson,3,1.900000000000,1.0000e-02,1.0000e-01
+fun2_polinomica_doble,Newton-Raphson,4,1.950000000000,2.5000e-03,5.0000e-02
+fun2_polinomica_doble,Newton-Raphson,5,1.975000000000,6.2500e-04,2.5000e-02
+fun2_polinomica_doble,Newton-Raphson,6,1.987500000000,1.5625e-04,1.2500e-02
+fun2_polinomica_doble,Newton-Raphson,7,1.993750000000,3.9063e-05,6.2500e-03
+fun2_polinomica_doble,Newton-Raphson,8,1.996875000000,9.7656e-06,3.1250e-03
+fun2_polinomica_doble,Newton-Raphson,9,1.998437500000,2.4414e-06,1.5625e-03
+fun2_polinomica_doble,Newton-Raphson,10,1.999218750000,6.1035e-07,7.8125e-04
+fun2_polinomica_doble,Newton mejorado,1,2.000000000000,0.0000e+00,0.0000e+00
+fun3_logaritmica,Bisección,1,2.500000000000,-5.8371e-01,4.2627e-01
+fun3_logaritmica,Bisección,2,2.750000000000,-2.3840e-01,1.7627e-01
+fun3_logaritmica,Bisección,3,2.875000000000,-6.8947e-02,5.1271e-02
+fun3_logaritmica,Bisección,4,2.937500000000,1.5059e-02,1.1229e-02
+fun3_logaritmica,Bisección,5,2.906250000000,-2.6886e-02,2.0021e-02
+fun3_logaritmica,Bisección,6,2.921875000000,-5.8995e-03,4.3961e-03
+fun3_logaritmica,Bisección,7,2.929687500000,4.5833e-03,3.4164e-03
+fun3_logaritmica,Bisección,8,2.925781250000,-6.5721e-04,4.8981e-04
+fun3_logaritmica,Bisección,9,2.927734375000,1.9632e-03,1.4633e-03
+fun3_logaritmica,Bisección,10,2.926757812500,6.5307e-04,4.8675e-04
+fun3_logaritmica,Bisección,11,2.926269531250,-2.0545e-06,1.5312e-06
+fun3_logaritmica,Bisección,12,2.926513671875,3.2551e-04,2.4261e-04
+fun3_logaritmica,Bisección,13,2.926391601562,1.6173e-04,1.2054e-04
+fun3_logaritmica,Bisección,14,2.926330566406,7.9838e-05,5.9504e-05
+fun3_logaritmica,Bisección,15,2.926300048828,3.8892e-05,2.8986e-05
+fun3_logaritmica,Bisección,16,2.926284790039,1.8419e-05,1.3728e-05
+fun3_logaritmica,Bisección,17,2.926277160645,8.1821e-06,6.0982e-06
+fun3_logaritmica,Bisección,18,2.926273345947,3.0638e-06,2.2835e-06
+fun3_logaritmica,Bisección,19,2.926271438599,5.0470e-07,3.7616e-07
+fun3_logaritmica,Falsa posición,1,2.929836544430,4.7832e-03,3.5655e-03
+fun3_logaritmica,Falsa posición,2,2.926445683966,2.3429e-04,1.7462e-04
+fun3_logaritmica,Falsa posición,3,2.926279619916,1.1482e-05,8.5575e-06
+fun3_logaritmica,Falsa posición,4,2.926271481822,5.6269e-07,4.1938e-07
+fun3_logaritmica,Punto fijo,1,3.083709268126,2.0984e-01,1.5744e-01
+fun3_logaritmica,Punto fijo,2,2.873866819778,-7.0475e-02,5.2404e-02
+fun3_logaritmica,Punto fijo,3,2.944341553090,2.4227e-02,1.8070e-02
+fun3_logaritmica,Punto fijo,4,2.920114789188,-8.2623e-03,6.1563e-03
+fun3_logaritmica,Punto fijo,5,2.928377073127,2.8254e-03,2.1060e-03
+fun3_logaritmica,Punto fijo,6,2.925551630387,-9.6532e-04,7.1943e-04
+fun3_logaritmica,Punto fijo,7,2.926516945512,3.2991e-04,2.4588e-04
+fun3_logaritmica,Punto fijo,8,2.926187039900,-1.1274e-04,8.4023e-05
+fun3_logaritmica,Punto fijo,9,2.926299776034,3.8526e-05,2.8714e-05
+fun3_logaritmica,Punto fijo,10,2.926261250143,-1.3165e-05,9.8123e-06
+fun3_logaritmica,Punto fijo,11,2.926274415625,4.4991e-06,3.3532e-06
+fun3_logaritmica,Punto fijo,12,2.926269916555,-1.5375e-06,1.1459e-06
+fun3_logaritmica,Punto fijo,13,2.926271454030,5.2540e-07,3.9159e-07
+fun3_logaritmica,Secante,1,2.929836544430,4.7832e-03,3.5655e-03
+fun3_logaritmica,Secante,2,2.926259782700,-1.5134e-05,1.1280e-05
+fun3_logaritmica,Secante,3,2.926271064193,2.3468e-09,1.7491e-09
+fun3_logaritmica,Newton-Raphson,1,2.916935191518,-1.2531e-02,9.3359e-03
+fun3_logaritmica,Newton-Raphson,2,2.926267256336,-5.1068e-06,3.8061e-06
+fun3_logaritmica,Newton-Raphson,3,2.926271062443,-8.4643e-13,6.3061e-13
+fun3_logaritmica,Newton mejorado,1,2.937796058189,1.5456e-02,1.1525e-02
+fun3_logaritmica,Newton mejorado,2,2.926276788268,7.6825e-06,5.7258e-06
+fun3_logaritmica,Newton mejorado,3,2.926271062445,1.9149e-12,1.4273e-12
+fun4_exponencial,Bisección,1,0.500000000000,1.0653e-01,6.7143e-02
+fun4_exponencial,Bisección,2,0.750000000000,-2.7763e-01,1.8286e-01
+fun4_exponencial,Bisección,3,0.625000000000,-8.9739e-02,5.7857e-02
+fun4_exponencial,Bisección,4,0.562500000000,7.2828e-03,4.6433e-03
+fun4_exponencial,Bisección,5,0.593750000000,-4.1498e-02,2.6607e-02
+fun4_exponencial,Bisección,6,0.578125000000,-1.7176e-02,1.0982e-02
+fun4_exponencial,Bisección,7,0.570312500000,-4.9638e-03,3.1692e-03
+fun4_exponencial,Bisección,8,0.566406250000,1.1552e-03,7.3704e-04
+fun4_exponencial,Bisección,9,0.568359375000,-1.9054e-03,1.2161e-03
+fun4_exponencial,Bisección,10,0.567382812500,-3.7535e-04,2.3952e-04
+fun4_exponencial,Bisección,11,0.566894531250,3.8986e-04,2.4876e-04
+fun4_exponencial,Bisección,12,0.567138671875,7.2379e-06,4.6185e-06
+fun4_exponencial,Bisección,13,0.567260742188,-1.8406e-04,1.1745e-04
+fun4_exponencial,Bisección,14,0.567199707031,-8.8412e-05,5.6417e-05
+fun4_exponencial,Bisección,15,0.567169189453,-4.0587e-05,2.5899e-05
+fun4_exponencial,Bisección,16,0.567153930664,-1.6675e-05,1.0640e-05
+fun4_exponencial,Bisección,17,0.567146301270,-4.7184e-06,3.0109e-06
+fun4_exponencial,Bisección,18,0.567142486572,1.2597e-06,8.0384e-07
+fun4_exponencial,Bisección,19,0.567144393921,-1.7294e-06,1.1035e-06
+fun4_exponencial,Bisección,20,0.567143440247,-2.3482e-07,1.4984e-07
+fun4_exponencial,Falsa posición,1,0.612699836780,-7.0814e-02,4.5557e-02
+fun4_exponencial,Falsa posición,2,0.572181412091,-7.8883e-03,5.0381e-03
+fun4_exponencial,Falsa posición,3,0.567703214236,-8.7739e-04,5.5992e-04
+fun4_exponencial,Falsa posición,4,0.567205552633,-9.7573e-05,6.2262e-05
+fun4_exponencial,Falsa posición,5,0.567150214240,-1.0851e-05,6.9238e-06
+fun4_exponencial,Falsa posición,6,0.567144060375,-1.2066e-06,7.6997e-07
+fun4_exponencial,Falsa posición,7,0.567143376034,-1.3419e-07,8.5624e-08
+fun4_exponencial,Punto fijo,1,0.606530659713,-6.1291e-02,3.9387e-02
+fun4_exponencial,Punto fijo,2,0.545239211893,3.4464e-02,2.1904e-02
+fun4_exponencial,Punto fijo,3,0.579703094878,-1.9638e-02,1.2560e-02
+fun4_exponencial,Punto fijo,4,0.560064627939,1.1108e-02,7.0787e-03
+fun4_exponencial,Punto fijo,5,0.571172148977,-6.3092e-03,4.0289e-03
+fun4_exponencial,Punto fijo,6,0.564862946980,3.5751e-03,2.2803e-03
+fun4_exponencial,Punto fijo,7,0.568438047570,-2.0286e-03,1.2948e-03
+fun4_exponencial,Punto fijo,8,0.566409452747,1.1502e-03,7.3384e-04
+fun4_exponencial,Punto fijo,9,0.567559634262,-6.5242e-04,4.1634e-04
+fun4_exponencial,Punto fijo,10,0.566907212935,3.6998e-04,2.3608e-04
+fun4_exponencial,Punto fijo,11,0.567277195971,-2.0984e-04,1.3391e-04
+fun4_exponencial,Punto fijo,12,0.567067351854,1.1901e-04,7.5939e-05
+fun4_exponencial,Punto fijo,13,0.567186360088,-6.7496e-05,4.3070e-05
+fun4_exponencial,Punto fijo,14,0.567118864257,3.8279e-05,2.4426e-05
+fun4_exponencial,Punto fijo,15,0.567157143708,-2.1710e-05,1.3853e-05
+fun4_exponencial,Punto fijo,16,0.567135433659,1.2313e-05,7.8568e-06
+fun4_exponencial,Punto fijo,17,0.567147746331,-6.9831e-06,4.4559e-06
+fun4_exponencial,Punto fijo,18,0.567140763270,3.9604e-06,2.5271e-06
+fun4_exponencial,Punto fijo,19,0.567144723662,-2.2461e-06,1.4333e-06
+fun4_exponencial,Punto fijo,20,0.567142477551,1.2739e-06,8.1286e-07
+fun4_exponencial,Punto fijo,21,0.567143751417,-7.2246e-07,4.6101e-07
+fun4_exponencial,Secante,1,0.612699836780,-7.0814e-02,4.5557e-02
+fun4_exponencial,Secante,2,0.563838389161,5.1824e-03,3.3049e-03
+fun4_exponencial,Secante,3,0.567170358420,-4.2419e-05,2.7068e-05
+fun4_exponencial,Secante,4,0.567143306605,-2.5380e-08,1.6195e-08
+fun4_exponencial,Newton-Raphson,1,0.566311003197,1.3045e-03,8.3229e-04
+fun4_exponencial,Newton-Raphson,2,0.567143165035,1.9648e-07,1.2537e-07
+fun4_exponencial,Newton mejorado,1,0.568013733859,-1.3639e-03,8.7044e-04
+fun4_exponencial,Newton mejorado,2,0.567143427393,-2.1467e-07,1.3698e-07
+fun5_trigonometrica,Bisección,1,0.500000000000,3.7758e-01,2.3909e-01
+fun5_trigonometrica,Bisección,2,0.750000000000,-1.8311e-02,1.0915e-02
+fun5_trigonometrica,Bisección,3,0.625000000000,1.8596e-01,1.1409e-01
+fun5_trigonometrica,Bisección,4,0.687500000000,8.5335e-02,5.1585e-02
+fun5_trigonometrica,Bisección,5,0.718750000000,3.3879e-02,2.0335e-02
+fun5_trigonometrica,Bisección,6,0.734375000000,7.8747e-03,4.7101e-03
+fun5_trigonometrica,Bisección,7,0.742187500000,-5.1957e-03,3.1024e-03
+fun5_trigonometrica,Bisección,8,0.738281250000,1.3451e-03,8.0388e-04
+fun5_trigonometrica,Bisección,9,0.740234375000,-1.9239e-03,1.1492e-03
+fun5_trigonometrica,Bisección,10,0.739257812500,-2.8901e-04,1.7268e-04
+fun5_trigonometrica,Bisección,11,0.738769531250,5.2816e-04,3.1560e-04
+fun5_trigonometrica,Bisección,12,0.739013671875,1.1960e-04,7.1461e-05
+fun5_trigonometrica,Bisección,13,0.739135742188,-8.4701e-05,5.0609e-05
+fun5_trigonometrica,Bisección,14,0.739074707031,1.7449e-05,1.0426e-05
+fun5_trigonometrica,Bisección,15,0.739105224609,-3.3625e-05,2.0091e-05
+fun5_trigonometrica,Bisección,16,0.739089965820,-8.0879e-06,4.8326e-06
+fun5_trigonometrica,Bisección,17,0.739082336426,4.6807e-06,2.7968e-06
+fun5_trigonometrica,Bisección,18,0.739086151123,-1.7036e-06,1.0179e-06
+fun5_trigonometrica,Bisección,19,0.739084243774,1.4886e-06,8.8944e-07
+fun5_trigonometrica,Bisección,20,0.739085197449,-1.0750e-07,6.4234e-08
+fun5_trigonometrica,Falsa posición,1,0.685073357326,8.9299e-02,5.4012e-02
+fun5_trigonometrica,Falsa posición,2,0.736298997614,4.6600e-03,2.7861e-03
+fun5_trigonometrica,Falsa posición,3,0.738945355966,2.3393e-04,1.3978e-04
+fun5_trigonometrica,Falsa posición,4,0.739078130880,1.1719e-05,7.0023e-06
+fun5_trigonometrica,Falsa posición,5,0.739084782449,5.8705e-07,3.5077e-07
+fun5_trigonometrica,Punto fijo,1,0.877582561890,-2.3857e-01,1.3850e-01
+fun5_trigonometrica,Punto fijo,2,0.639012494165,1.6367e-01,1.0007e-01
+fun5_trigonometrica,Punto fijo,3,0.802685100682,-1.0791e-01,6.3600e-02
+fun5_trigonometrica,Punto fijo,4,0.694778026788,7.3418e-02,4.4307e-02
+fun5_trigonometrica,Punto fijo,5,0.768195831282,-4.9030e-02,2.9111e-02
+fun5_trigonometrica,Punto fijo,6,0.719165445942,3.3190e-02,1.9920e-02
+fun5_trigonometrica,Punto fijo,7,0.752355759422,-2.2275e-02,1.3271e-02
+fun5_trigonometrica,Punto fijo,8,0.730081063138,1.5039e-02,9.0041e-03
+fun5_trigonometrica,Punto fijo,9,0.745120341351,-1.0114e-02,6.0352e-03
+fun5_trigonometrica,Punto fijo,10,0.735006309015,6.8202e-03,4.0788e-03
+fun5_trigonometrica,Punto fijo,11,0.741826522643,-4.5908e-03,2.7414e-03
+fun5_trigonometrica,Punto fijo,12,0.737235725442,3.0939e-03,1.8494e-03
+fun5_trigonometrica,Punto fijo,13,0.740329651878,-2.0834e-03,1.2445e-03
+fun5_trigonometrica,Punto fijo,14,0.738246238332,1.4037e-03,8.3889e-04
+fun5_trigonometrica,Punto fijo,15,0.739649962770,-9.4542e-04,5.6483e-04
+fun5_trigonometrica,Punto fijo,16,0.738704539357,6.3691e-04,3.8059e-04
+fun5_trigonometrica,Punto fijo,17,0.739341452281,-4.2900e-04,2.5632e-04
+fun5_trigonometrica,Punto fijo,18,0.738912449332,2.8899e-04,1.7268e-04
+fun5_trigonometrica,Punto fijo,19,0.739201444136,-1.9466e-04,1.1631e-04
+fun5_trigonometrica,Punto fijo,20,0.739006779781,1.3113e-04,7.8353e-05
+fun5_trigonometrica,Punto fijo,21,0.739137910762,-8.8330e-05,5.2778e-05
+fun5_trigonometrica,Punto fijo,22,0.739049580595,5.9501e-05,3.5553e-05
+fun5_trigonometrica,Punto fijo,23,0.739109081421,-4.0080e-05,2.3948e-05
+fun5_trigonometrica,Punto fijo,24,0.739069001204,2.6999e-05,1.6132e-05
+fun5_trigonometrica,Punto fijo,25,0.739095999836,-1.8187e-05,1.0867e-05
+fun5_trigonometrica,Punto fijo,26,0.739077813285,1.2251e-05,7.3199e-06
+fun5_trigonometrica,Punto fijo,27,0.739090063988,-8.2522e-06,4.9308e-06
+fun5_trigonometrica,Punto fijo,28,0.739081811778,5.5588e-06,3.3214e-06
+fun5_trigonometrica,Punto fijo,29,0.739087370571,-3.7445e-06,2.2374e-06
+fun5_trigonometrica,Punto fijo,30,0.739083626103,2.5223e-06,1.5071e-06
+fun5_trigonometrica,Punto fijo,31,0.739086148423,-1.6991e-06,1.0152e-06
+fun5_trigonometrica,Punto fijo,32,0.739084449359,1.1445e-06,6.8386e-07
+fun5_trigonometrica,Punto fijo,33,0.739085593869,-7.7096e-07,4.6065e-07
+fun5_trigonometrica,Secante,1,0.685073357326,8.9299e-02,5.4012e-02
+fun5_trigonometrica,Secante,2,0.736298997614,4.6600e-03,2.7861e-03
+fun5_trigonometrica,Secante,3,0.739119361912,-5.7286e-05,3.4229e-05
+fun5_trigonometrica,Secante,4,0.739085112127,3.5293e-08,2.1088e-08
+fun5_trigonometrica,Newton-Raphson,1,0.755222417106,-2.7103e-02,1.6137e-02
+fun5_trigonometrica,Newton-Raphson,2,0.739141666150,-9.4615e-05,5.6533e-05
+fun5_trigonometrica,Newton-Raphson,3,0.739085133921,-1.1810e-09,7.0565e-10
+fun5_trigonometrica,Newton mejorado,1,0.721663504104,2.9044e-02,1.7422e-02
+fun5_trigonometrica,Newton mejorado,2,0.739016185301,1.1539e-04,6.8948e-05
+fun5_trigonometrica,Newton mejorado,3,0.739085132165,1.7569e-09,1.0498e-09
+fun6_mixta,Bisección,1,0.550000000000,-1.1090e-01,9.1714e-02
+fun6_mixta,Bisección,2,0.775000000000,1.6592e-01,1.3329e-01
+fun6_mixta,Bisección,3,0.662500000000,2.5484e-02,2.0786e-02
+fun6_mixta,Bisección,4,0.606250000000,-4.3170e-02,3.5464e-02
+fun6_mixta,Bisección,5,0.634375000000,-8.9657e-03,7.3394e-03
+fun6_mixta,Bisección,6,0.648437500000,8.2277e-03,6.7231e-03
+fun6_mixta,Bisección,7,0.641406250000,-3.7674e-04,3.0812e-04
+fun6_mixta,Bisección,8,0.644921875000,3.9235e-03,3.2075e-03
+fun6_mixta,Bisección,9,0.643164062500,1.7729e-03,1.4497e-03
+fun6_mixta,Bisección,10,0.642285156250,6.9797e-04,5.7079e-04
+fun6_mixta,Bisección,11,0.641845703125,1.6059e-04,1.3133e-04
+fun6_mixta,Bisección,12,0.641625976563,-1.0808e-04,8.8394e-05
+fun6_mixta,Bisección,13,0.641735839844,2.6251e-05,2.1469e-05
+fun6_mixta,Bisección,14,0.641680908203,-4.0916e-05,3.3463e-05
+fun6_mixta,Bisección,15,0.641708374023,-7.3325e-06,5.9968e-06
+fun6_mixta,Bisección,16,0.641722106934,9.4592e-06,7.7361e-06
+fun6_mixta,Bisección,17,0.641715240479,1.0633e-06,8.6961e-07
+fun6_mixta,Bisección,18,0.641711807251,-3.1346e-06,2.5636e-06
+fun6_mixta,Bisección,19,0.641713523865,-1.0357e-06,8.4701e-07
+fun6_mixta,Bisección,20,0.641714382172,1.3815e-08,1.1299e-08
+fun6_mixta,Falsa posición,1,0.636594344026,-6.2563e-03,5.1200e-03
+fun6_mixta,Falsa posición,2,0.641473756129,-2.9420e-04,2.4061e-04
+fun6_mixta,Falsa posición,3,0.641703060131,-1.3830e-05,1.1311e-05
+fun6_mixta,Falsa posición,4,0.641713839175,-6.5013e-07,5.3170e-07
+fun6_mixta,Punto fijo,1,0.605452336675,-4.4137e-02,3.6262e-02
+fun6_mixta,Punto fijo,2,0.627520618448,-1.7324e-02,1.4194e-02
+fun6_mixta,Punto fijo,3,0.636182492360,-6.7592e-03,5.5319e-03
+fun6_mixta,Punto fijo,4,0.639562100747,-2.6309e-03,2.1523e-03
+fun6_mixta,Punto fijo,5,0.640877563884,-1.0231e-03,8.3681e-04
+fun6_mixta,Punto fijo,6,0.641389105088,-3.9770e-04,3.2527e-04
+fun6_mixta,Punto fijo,7,0.641587953570,-1.5457e-04,1.2642e-04
+fun6_mixta,Punto fijo,8,0.641665239695,-6.0074e-05,4.9131e-05
+fun6_mixta,Punto fijo,9,0.641695276692,-2.3347e-05,1.9094e-05
+fun6_mixta,Punto fijo,10,0.641706950217,-9.0735e-06,7.4207e-06
+fun6_mixta,Punto fijo,11,0.641711486958,-3.5263e-06,2.8839e-06
+fun6_mixta,Punto fijo,12,0.641713250088,-1.3704e-06,1.1208e-06
+fun6_mixta,Punto fijo,13,0.641713935299,-5.3259e-07,4.3557e-07
+fun6_mixta,Secante,1,0.636594344026,-6.2563e-03,5.1200e-03
+fun6_mixta,Secante,2,0.641473756129,-2.9420e-04,2.4061e-04
+fun6_mixta,Secante,3,0.641714529050,1.9341e-07,1.5818e-07
+fun6_mixta,Newton-Raphson,1,0.642660931969,1.1575e-03,9.4656e-04
+fun6_mixta,Newton-Raphson,2,0.641714486286,1.4112e-07,1.1541e-07
+fun6_mixta,Newton mejorado,1,0.640973320237,-9.0602e-04,7.4105e-04
+fun6_mixta,Newton mejorado,2,0.641714300300,-8.6292e-08,7.0573e-08
